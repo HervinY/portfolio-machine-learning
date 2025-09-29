@@ -89,4 +89,4 @@ Este portafolio está organizado en carpetas temáticas. Cada carpeta contiene u
 
 Si tienes alguna pregunta, sugerencia o estás interesado en colaborar, no dudes en contactarme:
 *   **LinkedIn:** https://www.linkedin.com/in/herviny/
-*   **Email:** herdrodriguezcas@unal.edu.co]
+*   **Email:** herdrodriguezcas@unal.edu.co
